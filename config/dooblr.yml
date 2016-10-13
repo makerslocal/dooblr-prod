@@ -1,0 +1,7 @@
+mqtt:
+  host: iot
+
+influxdb:
+  host: dev
+  database: test
+

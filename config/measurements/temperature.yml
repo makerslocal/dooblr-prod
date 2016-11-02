@@ -1,4 +1,8 @@
 temperature:
   topics: ml256/+/temp/+
-  tags: location, sensor
-  fields: temperature, units
+  tags:
+    - location
+    - sensor
+  fields:
+    - temperature
+    - units

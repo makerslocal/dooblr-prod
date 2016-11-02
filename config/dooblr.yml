@@ -3,5 +3,5 @@ mqtt:
 
 influxdb:
   host: dev
-  database: test
+  database: rq
 

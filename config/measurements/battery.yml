@@ -1,0 +1,7 @@
+battery:
+  topics: ml256/+/ls/battery
+  tags:
+    - location
+    - units
+  fields:
+    - battery_level

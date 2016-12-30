@@ -1,0 +1,6 @@
+light:
+  topics: ml256/+/light-level
+  tags:
+    - location
+  fields:
+    - light_level

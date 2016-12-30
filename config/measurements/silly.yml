@@ -1,0 +1,4 @@
+bathroombutton:
+  topics: silly/bathroom/count
+  fields:
+    - count

@@ -1,0 +1,6 @@
+motion:
+  topics: ml256/+/motion
+  tags:
+    - location
+  fields:
+    - motion_detected
